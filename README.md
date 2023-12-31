@@ -33,6 +33,10 @@ I have a degree in System Analysis and Development in Fatec São Paulo, so you c
 ![Jest](https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-![francisco-barros-dev's Stats](https://github-readme-stats.vercel.app/api?username=francisco-barros-dev&theme=dracula&show_icons=true&hide_border=true&count_private=false)
+![francisco-barros-dev's Stats](https://github-readme-stats.vercel.app/api?username=francisco-barros-dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![francisco-barros-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=francisco-barros-dev&theme=vue-dark&hide_border=true)
+
+![francisco-barros-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=francisco-barros-dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=francisco-barros-dev&color=yellow)
