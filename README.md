@@ -5,7 +5,7 @@ My name is Francisco Barros. I'm from Brazil, I'm a team player and hard worker 
 I also love games, soccer(football) and coding. <br />
 I have a degree in System Analysis and Development in Fatec São Paulo, so you can always talk to me about technology or something.
 
-- 🔭 I’m currently working with <strong> Javascript, Typescript, Python, React and NodeJS </strong>
+- 🔭 I’m currently working with <strong> Javascript, Typescript, Python and NodeJS </strong>
 
 <br />
 
@@ -14,7 +14,7 @@ I have a degree in System Analysis and Development in Fatec São Paulo, so you c
 <a href="https://www.linkedin.com/in/francisco-barros-404693208/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a href="mailto:franciscobarros.dev@gmail.com"><img src="https://img.shields.io/badge/email-D14836?&style=for-the-badge&logo=email&logoColor=white"></img></a>
 
-### These are some of the technologies and tools that I like and study:
+### These are some of the technologies and tools that I use:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
